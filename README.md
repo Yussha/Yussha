@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yussha
-- 👀 I’m interested in learn about fronend 
+- 👀 I’m interested in learn about frontend 
 - 🌱 I’m currently learning JAVA, C# for school puposes
 - 💞️ I’m looking to collaborate on the team that will give me an advice how to be better frontend developer
 
